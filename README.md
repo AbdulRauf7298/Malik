@@ -8,7 +8,6 @@ including a pricing guide, order processing form, and front-end/back-end dashboa
 Open `index.html` directly in a browser, or serve the folder locally:
 
 ```bash
-cd /home/runner/work/Malik/Malik
 python -m http.server 8000
 ```
 

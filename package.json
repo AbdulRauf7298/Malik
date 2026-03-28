@@ -1,7 +1,7 @@
 {
-  "name": "malik",
+  "name": "malik-academic",
   "version": "1.0.0",
-  "description": "",
+  "description": "Academic writing services website with order processing and pricing calculator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AbdulRauf7298/Malik.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Malik Academic",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
